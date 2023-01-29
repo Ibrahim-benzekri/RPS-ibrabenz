@@ -1,0 +1,32 @@
+#container{
+    width: 300px;
+    height: 250px;
+    background-color: darkgray;
+    border: 2px solid;
+    border-color: black;
+}
+#computer{
+font-size: 30px;
+font-weight:bold;
+margin-left: 20px;
+color: rgb(176, 42, 42);
+}
+
+#player{
+    font-size: 30px;
+    font-weight:bold;
+    margin-left: 20px;
+    color: rgb(48, 48, 154);
+}
+#result{
+    font-size: 30px;
+font-weight:bold;
+margin-left: 20px;
+color: rgb(33, 30, 30);
+}
+
+.buttons{
+font-size: 30px;
+border-color: lightcoral;
+margin-top: 60px;
+}
